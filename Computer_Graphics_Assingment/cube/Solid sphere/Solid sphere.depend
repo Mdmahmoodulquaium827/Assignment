@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1785299196 source:e:\cg\solid sphere\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1784694324 d:\freeglut-mingw-master\freeglut-mingw-master\include\gl\glut.h
+	"freeglut_std.h"
+
+1784694324 d:\freeglut-mingw-master\freeglut-mingw-master\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
