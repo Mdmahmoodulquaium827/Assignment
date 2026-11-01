@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1787113579 source:e:\cg\windmill\main.cpp
+	<GL/glut.h>
+
+1784694324 d:\freeglut-mingw-master\freeglut-mingw-master\include\gl\glut.h
+	"freeglut_std.h"
+
+1784694324 d:\freeglut-mingw-master\freeglut-mingw-master\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
