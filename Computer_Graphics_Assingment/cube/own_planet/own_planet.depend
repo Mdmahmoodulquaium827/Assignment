@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1793100549 source:e:\cg\own_planet\main.cpp
+	<GL/glut.h>
+	"planet.h"
+
+1784694324 d:\freeglut-mingw-master\freeglut-mingw-master\include\gl\glut.h
+	"freeglut_std.h"
+
+1784694324 d:\freeglut-mingw-master\freeglut-mingw-master\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1793091509 e:\cg\own_planet\planet.h
+
+1793100493 source:e:\cg\own_planet\planet.cpp
+	"planet.h"
+	<GL/glut.h>
+	<stdio.h>
+	"stb_image.h"
+
+1791949399 e:\cg\own_planet\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
