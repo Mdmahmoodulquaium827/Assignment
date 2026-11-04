@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1793101778 source:e:\cg\house\house.cpp
+	"house.h"
+	<GL/glut.h>
+	<stdio.h>
+	<cmath>
+	"stb_image.h"
+
+1793101029 e:\cg\house\house.h
+
+1784694324 d:\freeglut-mingw-master\freeglut-mingw-master\include\gl\glut.h
+	"freeglut_std.h"
+
+1784694324 d:\freeglut-mingw-master\freeglut-mingw-master\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1791949399 e:\cg\house\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1793101608 source:e:\cg\house\main.cpp
+	<GL/glut.h>
+	"house.h"
+
